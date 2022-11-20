@@ -1,0 +1,8 @@
+.hover-main:hover{
+    /* font-weight: bold; */
+    color: #3498db !important;
+}
+.menu-active{
+    font-weight: bold !important;
+    border-bottom: #565387 !important;
+}
